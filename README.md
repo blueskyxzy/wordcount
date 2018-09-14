@@ -1,1 +1,1 @@
-# wordcount
+# 第一个hadoop程序
